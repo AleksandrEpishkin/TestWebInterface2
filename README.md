@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9a1ltjbpeawpu7q2?svg=true)](https://ci.appveyor.com/project/AleksandrEpishkin/testwebinterface2)
